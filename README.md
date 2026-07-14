@@ -1,2 +1,4 @@
-# repositorioaulaguanabara
-Repositorio 1 git e Git Hub
+# Olá, Mundo!
+Primeiro repositório do curso de Git e GitHub 
+
+Repositório criado durante uma aula gravada!
